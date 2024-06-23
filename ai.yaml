@@ -72,6 +72,12 @@ payload:
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,ciciai.com
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,ttwstatic.com
+  - DOMAIN-SUFFIX,byteintlapi.com
+
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openaicom-api
   - IP-CIDR,24.199.123.28/32
